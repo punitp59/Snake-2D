@@ -9,5 +9,6 @@ public class GameAsset : MonoBehaviour
         assetInstance=this;
     }
     public Sprite snakeHeadSprite;
+    public Sprite snakeBodySprite;
     public Sprite foodSprite;
 }
